@@ -1,5 +1,5 @@
 # sam-templates
-AWS SAM templates for serverless projects
+### AWS SAM templates for serverless projects
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/Naereen/badges.svg)](http://isitmaintained.com/project/Naereen/badges 'Percentage of issues still open')
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/sudokar/nx-serverless)
 ![Maintained](https://img.shields.io/maintenance/yes/2022.svg)
